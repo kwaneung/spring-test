@@ -8,7 +8,7 @@
 <h1>
 	Hello world!
 	My name is kwaneung kim!
-	is this kwaneung03?
+	whats my branch?
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
