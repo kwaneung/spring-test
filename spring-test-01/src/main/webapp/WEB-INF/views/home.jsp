@@ -8,7 +8,11 @@
 <h1>
 	Hello world!
 	My name is kwaneung kim!
+<<<<<<< HEAD
 	whats my branch?
+=======
+	if you push, change branch
+>>>>>>> kwaneung02
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
