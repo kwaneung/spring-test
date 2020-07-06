@@ -8,8 +8,7 @@
 <h1>
 	Hello world!
 	My name is kwaneung kim!
-	This is kwaneung02 branch!!
-	is it real?
+	if you push, change branch
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
